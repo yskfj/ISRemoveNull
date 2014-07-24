@@ -13,7 +13,7 @@
     NSMutableArray *array = [self mutableCopy];
     
     for (id object in self) {
-        if (object == [NSNull null]) {
+        if (object == [NSNull null]  || ([object isKindOfClass:[NSString class]] && [object isEqualToString:@""])) {
             [array removeObject:object];
         }
         

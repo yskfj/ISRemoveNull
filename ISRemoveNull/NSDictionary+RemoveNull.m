@@ -15,7 +15,7 @@
     for (id key in [self allKeys]) {
         id object = [self objectForKey:key];
         
-        if (object == [NSNull null]) {
+        if (object == [NSNull null]  || ([object isKindOfClass:[NSString class]] && [object isEqualToString:@""])) {
             [dictionary removeObjectForKey:key];
         }
         
