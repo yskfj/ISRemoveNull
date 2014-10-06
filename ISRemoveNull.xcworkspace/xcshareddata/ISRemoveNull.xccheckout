@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>8B93AB74-5D2E-4B81-887D-80BC1B0B036C</string>
+	<string>B6F3584A-B1F1-4159-B6B9-0909767D7FEA</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ISRemoveNull</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>A8103B3D-D421-4830-BF45-1102DDEC288D</key>
-		<string>ssh://github.com/ishkawa/ISRemoveNull.git</string>
+		<key>7453EFFB-130A-4EA7-8F86-19CF0F44BE05</key>
+		<string>https://github.com/yskfj/ISRemoveNull.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ISRemoveNull.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>A8103B3D-D421-4830-BF45-1102DDEC288D</key>
+		<key>7453EFFB-130A-4EA7-8F86-19CF0F44BE05</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/ishkawa/ISRemoveNull.git</string>
+	<string>https://github.com/yskfj/ISRemoveNull.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>A8103B3D-D421-4830-BF45-1102DDEC288D</string>
+	<string>7453EFFB-130A-4EA7-8F86-19CF0F44BE05</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>A8103B3D-D421-4830-BF45-1102DDEC288D</string>
+			<string>7453EFFB-130A-4EA7-8F86-19CF0F44BE05</string>
 			<key>IDESourceControlWCCName</key>
 			<string>ISRemoveNull</string>
 		</dict>
